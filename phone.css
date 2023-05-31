@@ -1,0 +1,23 @@
+#navbar{
+    flex-direction:start;
+}
+ul{
+    text-align:center;
+    flex-direction: column;
+}
+li{
+   padding-bottom: 3vh;
+}
+#menu{
+    flex-direction:column;
+}
+#Nonveg{
+    flex-direction: wrap;
+
+}
+#cakes{
+    padding-inline-start:50%;
+}
+#Chocos{
+    padding-inline-start: 50%;
+}
